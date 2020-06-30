@@ -1,0 +1,34 @@
+body {
+    background-color:rgb(189, 189, 224);
+}
+
+#form {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article {
+    margin-left: 100px;
+    border-left: 3px solid gray;
+    padding: 4em;
+    overflow: hidden;
+}
+
+.header {
+    padding: 1em;
+    clear: left;
+    text-align: center;
+}
+.button {
+    background-color: #562eb4;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
